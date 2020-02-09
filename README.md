@@ -17,10 +17,18 @@
 ### 🏠 [Homepage](https://github.com/kostia7alania/badoo_autolikes_bot#readme)
 
 ## Install
-
+1) Download <a href="https://nodejs.org/en/download/" target="_blank">NODE.JS</a>
+2) Download this repository or clone
 ```sh
-npm install
+git clone https://github.com/kostia7alania/badoo_autolikes_bot.git
+cd badoo_autolikes_bot
 ```
+3) Install dependencies
+```sh
+npm i
+```
+4) Rename ```.env.example``` to ```.env```
+5) Fill in ```.env``` your login (email) and password.
 
 ## Usage
 
